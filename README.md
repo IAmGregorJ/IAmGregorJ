@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://github.com/IAmGregorJ/IAmGregorJ/blob/master/images/about.gif)](https://gregorj.org)
+<img src="https://github.com/IAmGregorJ/IAmGregorJ/blob/master/images/about.gif" alt = "I am a web/software developer: HTML, CSS, PHP, JavaScript, C#, .NET currently working as a BI Consultant. I am a big nerd who loves cats." width="100%"/>
 
 Hey there! I'm Gregor, the man of many titles.
 
