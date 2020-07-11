@@ -1,1 +1,1 @@
-<img src="images\about.gif" alt="I am a web/software developer, BI Consultant also working on my degree in IT. I am a nerd who loves cats." width="100%"/>
+[![Hello 👋🏻](images\about.gif)]
